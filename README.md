@@ -1,4 +1,4 @@
-# Deprecated
+# Deprecated - forked by VDA to add permissions for entry.sh
 
 This repository is being replaced with [Liquibase Github Actions](https://github.com/liquibase-github-actions) which includes full command and parameter coverage. This repository will not receive any future updates. Please update your workflows. Any issues should be reported to the [Liquibase GitHub Action Generator](https://github.com/liquibase/github-action-generator/issues) repository.
 
